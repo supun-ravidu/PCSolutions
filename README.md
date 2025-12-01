@@ -1087,3 +1087,8 @@ If you find this project helpful, please consider giving it a star ⭐
 © 2025 PC Solutions. All rights reserved.
 
 </div>
+
+
+Admin login 
+Admin@gmail.com
+PC123456
